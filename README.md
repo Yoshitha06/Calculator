@@ -1,6 +1,6 @@
 #### Simple Calculator App
 
-#### Technology Used:
+#### Technologies Used:
  - React Js
  - Java Script
  - HTML
